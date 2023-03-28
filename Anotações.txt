@@ -1,0 +1,3 @@
+Pacotes a adicionar para uso:
+-C#
+-.NET Core Test Explorer 
