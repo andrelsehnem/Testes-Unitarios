@@ -1,3 +1,7 @@
 Pacotes a adicionar para uso:
 -C#
 -.NET Core Test Explorer 
+
+
+"version": "6.0.400" na visual
+
