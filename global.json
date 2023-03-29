@@ -1,7 +1,8 @@
 {
   "projects":["src", "test"],
   "sdk": {
-    "version": "6.0.302"
-  }
+    "version": "6.0.400"
+  },
+  "versaoreserva": "6.0.302"
 }
 
